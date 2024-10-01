@@ -1,6 +1,7 @@
 # 💫 About Me:
-Currently, I'm focused on building innovative full-stack applications, implementing AI/ML models, and diving into data analysis. I'm always open to collaborating on exciting open-source projects in web development, full-stack engineering, and AI/ML. Looking to enhance scalability and optimize AI models and applications, I'm constantly learning advanced DevOps practices and exploring deeper AI model deployment strategies. Feel free to ask me about full-stack development, machine learning, or project management. 
-Fun fact: I love using technology to create seamless user experiences!
+Currently, I'm focused on building innovative full-stack applications, implementing AI/ML models, and exploring data analysis. I'm always open to collaborating on exciting open-source projects related to web development, full-stack engineering, and AI/ML. In my efforts to enhance scalability and optimize AI models and applications, I'm constantly learning advanced DevOps practices and deepening my understanding of AI model deployment strategies. Feel free to ask me about full-stack development, machine learning, or project management.
+
+**Fun fact:** I love using technology to create seamless user experiences!
 
 
 ## 🌐 Socials:
