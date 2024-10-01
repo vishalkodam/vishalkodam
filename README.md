@@ -18,4 +18,4 @@ Currently, I'm focused on building innovative full-stack applications, implement
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishalkodam&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vk&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
