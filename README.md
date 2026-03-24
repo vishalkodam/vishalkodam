@@ -1,4 +1,4 @@
-<!--
+<!
 # 💫 About Me:
 Currently, I'm focused on building innovative full-stack applications, implementing AI/ML models, and exploring data analysis. I'm always open to collaborating on exciting open-source projects rela[...]
 
@@ -19,4 +19,4 @@ Currently, I'm focused on building innovative full-stack applications, implement
 ---
 [![](https://visitcount.itsvg.in/api?id=vk&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
--->
+>
